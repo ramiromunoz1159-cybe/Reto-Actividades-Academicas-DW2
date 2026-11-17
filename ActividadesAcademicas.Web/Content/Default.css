@@ -1,0 +1,161 @@
+﻿@charset "UTF-8";
+/* =====================================================================
+   Default.css - UniCampus · Registro de Actividades Académicas
+   Ubicación: ActividadesAcademicas.Web/Content/Default.css
+   Secciones: 1 Variables · 2 Base · 3 Estructura · 4 Encabezado
+   5 Menú lateral · 6 Resumen · 7 Tarjetas · 8 Formulario · 9 Botones
+   10 Mensajes · 11 Tabla y paginación · 12 Estados · 13 Paneles inferiores
+   14 Responsive
+   ===================================================================== */
+
+/* 1. VARIABLES ------------------------------------------------------- */
+:root {
+    --fondo: #eef3fb;
+    --texto: #1f2a44;
+    --primario: #0f6bd8;
+    --primario-osc: #0b4fa8;
+    --marino: #12295f;
+    --borde: #dbe5f3;
+    --borde-input: #c9d5e8;
+    --suave: #f4f7fd;
+    --verde: #1f9d55;
+    --rojo: #d63c3c;
+}
+
+/* 2. BASE ------------------------------------------------------------ */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: "Segoe UI", Roboto, Arial, sans-serif; background: var(--fondo); color: var(--texto); font-size: 14px; }
+h1, h2, h3 { margin: 0; }
+
+/* 3. ESTRUCTURA ------------------------------------------------------ */
+.app { display: grid; grid-template-columns: 215px 1fr; grid-template-rows: 70px 1fr; min-height: 100vh; }
+.topbar { grid-column: 1 / -1; }
+.contenido { padding: 14px 16px 24px; min-width: 0; }
+.fila-principal { display: grid; grid-template-columns: 1fr 1.15fr; gap: 16px; margin-bottom: 16px; align-items: start; }
+.fila-inferior { display: grid; grid-template-columns: 1fr 1.2fr 1fr; gap: 16px; align-items: start; }
+
+/* 4. ENCABEZADO ------------------------------------------------------ */
+.topbar { display: flex; align-items: center; justify-content: space-between; padding: 0 28px; color: #fff;
+          background: linear-gradient(90deg, #14296b 0%, #1f3f9a 60%, #2a56b8 100%); }
+.brand { display: flex; align-items: center; gap: 12px; }
+.brand-logo { font-size: 34px; line-height: 1; }
+.brand strong { display: block; font-size: 22px; letter-spacing: .3px; }
+.brand small { display: block; opacity: .85; font-size: 13px; }
+.user { display: flex; align-items: center; gap: 14px; }
+.bell { position: relative; font-size: 20px; }
+.bell i { position: absolute; top: -8px; right: -10px; background: #e64545; font-style: normal; font-size: 10px;
+          border-radius: 10px; padding: 1px 5px; }
+.avatar { width: 38px; height: 38px; border-radius: 50%; background: #dfe8f7; color: #1f3f9a; display: grid; place-items: center; font-size: 20px; }
+.user-info strong { display: block; font-size: 14px; }
+.user-info small { opacity: .85; font-size: 12px; }
+
+/* 5. MENÚ LATERAL ---------------------------------------------------- */
+.sidebar { background: linear-gradient(180deg, #0f2461 0%, #0b1b4d 100%); padding: 14px 10px; display: flex; flex-direction: column; justify-content: space-between; }
+.nav { display: flex; align-items: center; gap: 12px; color: #e8eefc; text-decoration: none; padding: 12px 14px; border-radius: 6px; margin-bottom: 4px; }
+.nav i { font-style: normal; font-size: 18px; width: 22px; text-align: center; }
+.nav.activo { background: linear-gradient(90deg, #2563d6, #2f78e8); color: #fff; font-weight: 600; }
+.nav.off { opacity: .85; cursor: default; }
+.nav.salir { margin-bottom: 8px; }
+
+/* 6. RESUMEN (hero + tarjetas) --------------------------------------- */
+.hero { position: relative; overflow: hidden; border: 1px solid var(--borde); border-radius: 10px; padding: 18px 20px; margin-bottom: 14px;
+        background: radial-gradient(circle at 88% 30%, #cfe0fb 0, #cfe0fb 14%, transparent 15%),
+                    radial-gradient(circle at 96% 80%, #dbe8fd 0, #dbe8fd 10%, transparent 11%),
+                    linear-gradient(90deg, #f6f9ff, #e8f0fc); }
+.hero h1 { font-size: 26px; color: var(--marino); }
+.hero p { margin: 4px 0 14px; color: #3a4a6b; }
+.stats { display: grid; grid-template-columns: repeat(4, minmax(0, 190px)); gap: 12px; }
+.stat { display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-radius: 8px; border: 1px solid transparent; }
+.stat .ico { font-size: 28px; }
+.stat b { display: block; font-size: 24px; line-height: 1.1; }
+.stat small { font-size: 12px; }
+.stat.azul     { background: #dbeafe; border-color: #bcd6fb; color: #1d4ed8; }
+.stat.verde    { background: #dcf5e4; border-color: #b6e6c6; color: #15803d; }
+.stat.amarillo { background: #fdf0c9; border-color: #f4dc93; color: #b45309; }
+.stat.rojo     { background: #fde0e3; border-color: #f6bcc3; color: #c0262d; }
+.stat b { color: #1f2a44; }
+
+/* 7. TARJETAS -------------------------------------------------------- */
+.card { background: #fff; border: 1px solid var(--borde); border-radius: 8px; overflow: hidden; }
+.card-titulo { display: flex; align-items: center; gap: 10px; font-size: 16px; color: var(--marino); padding: 12px 16px;
+               background: linear-gradient(90deg, #eaf2ff, #f6f9ff); border-bottom: 1px solid var(--borde); }
+.mas { display: inline-grid; place-items: center; width: 24px; height: 24px; border-radius: 50%; background: var(--primario); color: #fff; font-size: 18px; line-height: 1; }
+.lista-ico { color: var(--primario); font-size: 18px; }
+.card-cuerpo { padding: 14px 16px 16px; }
+
+/* 8. FORMULARIO ------------------------------------------------------ */
+label { display: block; font-size: 12.5px; font-weight: 600; margin: 0 0 4px; }
+.req { color: #d93025; }
+.f-grid { display: grid; gap: 12px; margin-bottom: 12px; }
+.f-grid.g2 { grid-template-columns: 1.4fr 1fr; }
+.f-grid.g3 { grid-template-columns: 1fr 1fr 1fr; }
+.f-grid.g-desc { grid-template-columns: 1.5fr 1fr 1fr; }
+.contenido input[type=text], .contenido input[type=date], .contenido input[type=time],
+.contenido input:not([type]), .contenido select, .contenido textarea {
+    width: 100%; padding: 8px 10px; border: 1px solid var(--borde-input); border-radius: 6px; background: #fff; font: inherit; color: var(--texto);
+}
+.contenido textarea { resize: vertical; min-height: 70px; }
+.contenido input:focus, .contenido select:focus, .contenido textarea:focus { outline: 2px solid #9ec5f7; border-color: var(--primario); }
+.filtros { display: grid; grid-template-columns: 2fr 1.2fr 1.2fr 1.2fr; gap: 8px; margin-bottom: 8px; }
+
+/* 9. BOTONES --------------------------------------------------------- */
+.acciones { display: flex; gap: 10px; margin-top: 4px; }
+.acciones.sm { margin-bottom: 12px; }
+.btn { background: var(--primario); color: #fff; border: 1px solid var(--primario); padding: 9px 20px; border-radius: 6px; font: inherit; font-weight: 600; cursor: pointer; }
+.btn:hover { background: var(--primario-osc); }
+.btn.sec { background: #f6f8fc; color: var(--texto); border-color: var(--borde-input); font-weight: 500; }
+.btn.sec:hover { background: #e9eef8; }
+a.btn-ver { display: inline-block; background: var(--primario); color: #fff; text-decoration: none; padding: 5px 12px; border-radius: 5px; font-size: 12px; font-weight: 600; }
+a.btn-ver:hover { background: var(--primario-osc); }
+
+/* 10. MENSAJES ------------------------------------------------------- */
+.msg { display: block; padding: 10px 14px; border-radius: 6px; margin-bottom: 10px; }
+.msg.ok { background: #e4f6e8; border: 1px solid #9fd5ab; color: #14532d; }
+.msg.error { background: #fdeaea; border: 1px solid #e3a3a3; color: #7f1d1d; }
+.errores { color: #a12222; margin: 0 0 12px 20px; padding-left: 12px; }
+
+/* 11. TABLA Y PAGINACIÓN -------------------------------------------- */
+table.tabla { width: 100%; border-collapse: collapse; font-size: 13px; }
+table.tabla th { background: #eef3fb; color: var(--marino); text-align: left; padding: 9px 8px; border-bottom: 1px solid var(--borde); }
+table.tabla td { padding: 9px 8px; border-bottom: 1px solid #edf1f8; }
+table.tabla tr:hover td { background: #f8fafe; }
+table.tabla tr.sel td { background: #e6f0ff; }
+table.tabla tr.pager td { border-bottom: 0; padding: 12px 0 0; text-align: right; }
+table.tabla tr.pager table { margin-left: auto; border-collapse: separate; border-spacing: 4px 0; }
+table.tabla tr.pager td td, table.tabla tr.pager table td { padding: 0; border: 0; }
+table.tabla tr.pager a, table.tabla tr.pager span { display: inline-block; min-width: 32px; padding: 7px 10px; text-align: center;
+    border: 1px solid var(--borde); border-radius: 4px; text-decoration: none; color: var(--texto); background: #fff; }
+table.tabla tr.pager span { background: var(--primario); color: #fff; border-color: var(--primario); }
+.pie-tabla { color: #55657f; font-size: 12.5px; margin-top: 8px; }
+
+/* 12. ESTADOS (badges) ----------------------------------------------- */
+.badge { display: inline-block; padding: 3px 12px; border-radius: 5px; font-size: 12px; font-weight: 600; }
+.badge.Activa     { background: #d7f2de; color: #16803c; }
+.badge.Proxima    { background: #fdeebd; color: #a16207; }
+.badge.Finalizada { background: #e4e7ee; color: #475069; }
+.badge.Inactiva   { background: #fddcdc; color: #b42318; }
+
+/* 13. PANELES INFERIORES --------------------------------------------- */
+.detalle .fila { display: grid; grid-template-columns: 95px 1fr; gap: 8px; padding: 3px 0; font-size: 13px; }
+.detalle .et { font-weight: 700; }
+.vista h3 { font-size: 16px; margin-bottom: 6px; }
+.vista p { margin: 5px 0; font-size: 13px; }
+.vista .desc { color: #55657f; font-size: 12px; margin-top: 8px; }
+.chips { margin-bottom: 6px; display: flex; gap: 6px; }
+.chip { display: inline-block; padding: 3px 10px; border-radius: 5px; background: #dbeafe; color: #1d4ed8; font-size: 12px; font-weight: 600; }
+table.mini { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+table.mini th { background: #eef3fb; text-align: left; padding: 8px 6px; color: var(--marino); }
+table.mini td { padding: 9px 6px; border-bottom: 1px solid #edf1f8; }
+.vacio { color: #7a88a3; font-style: italic; margin: 6px 0; }
+
+/* 14. RESPONSIVE ----------------------------------------------------- */
+@media (max-width: 1100px) {
+    .fila-principal, .fila-inferior { grid-template-columns: 1fr; }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 800px) {
+    .app { grid-template-columns: 1fr; grid-template-rows: 70px auto 1fr; }
+    .sidebar { flex-direction: row; flex-wrap: wrap; padding: 6px; }
+    .nav.salir { display: none; }
+    .f-grid.g2, .f-grid.g3, .f-grid.g-desc, .filtros { grid-template-columns: 1fr; }
+}

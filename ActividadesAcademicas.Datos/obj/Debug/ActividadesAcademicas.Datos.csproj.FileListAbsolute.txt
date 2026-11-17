@@ -1,0 +1,9 @@
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Datos\bin\Debug\ActividadesAcademicas.Datos.dll
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Datos\bin\Debug\ActividadesAcademicas.Datos.pdb
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Datos\bin\Debug\ActividadesAcademicas.Modelos.dll
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Datos\bin\Debug\ActividadesAcademicas.Modelos.pdb
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Datos\obj\Debug\ActividadesAcademicas.Datos.csproj.AssemblyReference.cache
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Datos\obj\Debug\ActividadesAcademicas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Datos\obj\Debug\Activida.9E079F1A.Up2Date
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Datos\obj\Debug\ActividadesAcademicas.Datos.dll
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Datos\obj\Debug\ActividadesAcademicas.Datos.pdb

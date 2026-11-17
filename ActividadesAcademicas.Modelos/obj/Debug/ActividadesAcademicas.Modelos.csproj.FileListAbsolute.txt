@@ -1,0 +1,6 @@
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Modelos\bin\Debug\ActividadesAcademicas.Modelos.dll
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Modelos\bin\Debug\ActividadesAcademicas.Modelos.pdb
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Modelos\obj\Debug\ActividadesAcademicas.Modelos.csproj.AssemblyReference.cache
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Modelos\obj\Debug\ActividadesAcademicas.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Modelos\obj\Debug\ActividadesAcademicas.Modelos.dll
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Modelos\obj\Debug\ActividadesAcademicas.Modelos.pdb

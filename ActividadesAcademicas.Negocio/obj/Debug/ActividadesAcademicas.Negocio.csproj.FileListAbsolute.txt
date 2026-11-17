@@ -1,0 +1,11 @@
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Negocio\bin\Debug\ActividadesAcademicas.Negocio.dll
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Negocio\bin\Debug\ActividadesAcademicas.Negocio.pdb
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Negocio\bin\Debug\ActividadesAcademicas.Datos.dll
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Negocio\bin\Debug\ActividadesAcademicas.Modelos.dll
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Negocio\bin\Debug\ActividadesAcademicas.Datos.pdb
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Negocio\bin\Debug\ActividadesAcademicas.Modelos.pdb
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Negocio\obj\Debug\ActividadesAcademicas.Negocio.csproj.AssemblyReference.cache
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Negocio\obj\Debug\ActividadesAcademicas.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Negocio\obj\Debug\Activida.A2090077.Up2Date
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Negocio\obj\Debug\ActividadesAcademicas.Negocio.dll
+C:\Users\smith\source\repos\ActividadesAcademicas.Web\ActividadesAcademicas.Negocio\obj\Debug\ActividadesAcademicas.Negocio.pdb

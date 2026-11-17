@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smith\\source\\repos\\ActividadesAcademicas.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.1321.rartemp\\Actividades.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.2389.rartemp\\Actividades.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.988.rartemp\\Actividades.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.48548.rartemp\\ActividadPresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.48235.rartemp\\IActividadView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.47472.rartemp\\ActividadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.47229.rartemp\\IActividadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.46434.rartemp\\ActividadRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.46127.rartemp\\IActividadRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.45413.rartemp\\Actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775F7F3-4551-4C5A-A4B7-713C8C38FF9A}|ActividadesAcademicas.Negocio\\ActividadesAcademicas.Negocio.csproj|c:\\users\\smith\\source\\repos\\actividadesacademicas.web\\actividadesacademicas.negocio\\actividadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1775F7F3-4551-4C5A-A4B7-713C8C38FF9A}|ActividadesAcademicas.Negocio\\ActividadesAcademicas.Negocio.csproj|solutionrelative:actividadesacademicas.negocio\\actividadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Actividades.aspx",
+              "DocumentMoniker": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.2389.rartemp\\Actividades.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.2389.rartemp\\Actividades.aspx",
+              "ToolTip": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.2389.rartemp\\Actividades.aspx",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.2389.rartemp\\Actividades.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-11-17T16:36:27.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actividades.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.1321.rartemp\\Actividades.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.1321.rartemp\\Actividades.aspx.cs",
+              "ToolTip": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.1321.rartemp\\Actividades.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.1321.rartemp\\Actividades.aspx.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:36:16.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Actividades.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.988.rartemp\\Actividades.aspx.designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.988.rartemp\\Actividades.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.988.rartemp\\Actividades.aspx.designer.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.988.rartemp\\Actividades.aspx.designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:36:13.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActividadPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.48548.rartemp\\ActividadPresenter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.48548.rartemp\\ActividadPresenter.cs",
+              "ToolTip": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.48548.rartemp\\ActividadPresenter.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.48548.rartemp\\ActividadPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:35:49.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IActividadView.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.48235.rartemp\\IActividadView.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.48235.rartemp\\IActividadView.cs",
+              "ToolTip": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.48235.rartemp\\IActividadView.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.48235.rartemp\\IActividadView.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:35:45.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActividadService.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.47472.rartemp\\ActividadService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.47472.rartemp\\ActividadService.cs",
+              "ToolTip": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.47472.rartemp\\ActividadService.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.47472.rartemp\\ActividadService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:35:38.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IActividadService.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.47229.rartemp\\IActividadService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.47229.rartemp\\IActividadService.cs",
+              "ToolTip": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.47229.rartemp\\IActividadService.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.47229.rartemp\\IActividadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:35:35.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActividadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.46434.rartemp\\ActividadRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.46434.rartemp\\ActividadRepository.cs",
+              "ToolTip": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.46434.rartemp\\ActividadRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.46434.rartemp\\ActividadRepository.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:35:27.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IActividadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.46127.rartemp\\IActividadRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.46127.rartemp\\IActividadRepository.cs",
+              "ToolTip": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.46127.rartemp\\IActividadRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.46127.rartemp\\IActividadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:35:24.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Actividad.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.45413.rartemp\\Actividad.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.45413.rartemp\\Actividad.cs",
+              "ToolTip": "C:\\Users\\smith\\AppData\\Local\\Temp\\Rar$DIa14472.45413.rartemp\\Actividad.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa14472.45413.rartemp\\Actividad.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:35:18.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActividadService.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\source\\repos\\ActividadesAcademicas.Web\\ActividadesAcademicas.Negocio\\ActividadService.cs",
+              "RelativeDocumentMoniker": "ActividadesAcademicas.Negocio\\ActividadService.cs",
+              "ToolTip": "C:\\Users\\smith\\source\\repos\\ActividadesAcademicas.Web\\ActividadesAcademicas.Negocio\\ActividadService.cs",
+              "RelativeToolTip": "ActividadesAcademicas.Negocio\\ActividadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:15:57.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

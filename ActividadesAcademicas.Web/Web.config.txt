@@ -1,0 +1,10 @@
+Pegue este bloque en el Web.config de su proyecto (NO reemplace el archivo),
+dentro de <configuration>, justo debajo de la etiqueta de apertura:
+
+  <connectionStrings>
+    <add name="ActividadesDB"
+         connectionString="Server=(localdb)\MSSQLLocalDB;Database=ActividadesAcademicas;Integrated Security=True;"
+         providerName="System.Data.SqlClient" />
+  </connectionStrings>
+
+Si el Web.config ya tiene un bloque <connectionStrings>, agregue solo la linea <add .../> dentro de el.

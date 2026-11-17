@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ActividadesAcademicas.Datos/ActividadesAcademicas.Datos.csproj" Id="eeef461e-c654-42c7-980d-557480d49ef3" />
+  <Project Path="ActividadesAcademicas.Modelos/ActividadesAcademicas.Modelos.csproj" Id="c3ec8e6e-8f07-41ac-9950-b6c8e7fbe59f" />
+  <Project Path="ActividadesAcademicas.Negocio/ActividadesAcademicas.Negocio.csproj" Id="1775f7f3-4551-4c5a-a4b7-713c8c38ff9a" />
+  <Project Path="ActividadesAcademicas.Web/ActividadesAcademicas.Web.csproj" Id="e998f877-11fa-4566-a5bf-6ee1b3edcb2f" />
+</Solution>
